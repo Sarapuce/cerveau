@@ -1,1 +1,1 @@
-# cerveau
+Création d'un perceptron "Manuel"
