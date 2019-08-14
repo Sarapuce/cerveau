@@ -3,5 +3,5 @@
 ### xorv2.py
 Contain the object perceptron
 
-### mnist.py
+### digit.py
 Contain tests
